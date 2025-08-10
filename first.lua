@@ -66,3 +66,5 @@ local function CreateWindow()
 	})
 	return Window
 end
+
+local Window = CreateWindow()
